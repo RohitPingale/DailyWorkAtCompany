@@ -1,7 +1,7 @@
 # 3-July-2023
 	Literature review on the asbestos properties for estimation of cracks on ROOF tops in US using SAR data
 	Literature review on the Concearte crack detection using SAR data.
-[Doc](PaperReviewForSAR_Rohit.docx)
+[Doc](Documents/PaperReviewForSAR_Rohit.docx)
 
 
 # 4-July-2023
@@ -22,4 +22,9 @@
   	1. OKR meeting
   	2. EDA on available data on Galax-blue 
 	3. Literature review on the yesterdays (Can be done) using SAR data.
-[Doc](EDAonGaBlue.docx)  [Notebook](trialANDerror.ipynb)
+[Doc](Documents/EDAonGaBlue.docx)  [Notebook](Documents/trialANDerror.ipynb)
+
+<!-- ## Nature of problem: -->
+	<!-- Less data + complex data +  -->
+	4. atmospheric correction for Sentinel-2 data is affecting mainly  490 to 740 drastically.  If we are using those bands then we have to do atm correction for sure otherwise we can check affect on other bands and use accordingly.
+[Paper](Documents/Sen2indepthATMCorrection.pdf)
