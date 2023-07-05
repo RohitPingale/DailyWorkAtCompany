@@ -19,8 +19,8 @@
 	7. identification of Nature of problems
  
 # 5-July-2023
-  OKR meeting 
-  EDA on available data on Galax-blue 
+  	OKR meeting.
+  	EDA on available data on Galax-blue.
 [Notebook](trialANDerror.ipynb) 
-  Literature review on the yesterdays (Can be done) using SAR data.
+  	Literature review on the yesterdays (Can be done) using SAR data.
 [Doc](EDAonGaBlue.docx)   
