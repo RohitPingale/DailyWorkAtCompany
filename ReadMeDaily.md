@@ -18,3 +18,9 @@
 	6. Another issue of coincidence(NEED TO BE RESOLVED SO ALL DATA  POINTS CAN BE USED)
 	7. identification of Nature of problems
  
+# 5-July-2023
+  OKR meeting
+  EDA on available data on Galax-blue 
+[Notebook](trialANDerror.ipynb)
+  Literature review on the yesterdays (Can be done) using SAR data.
+[Doc](EDAonGaBlue.docx)   
