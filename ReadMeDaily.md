@@ -21,5 +21,5 @@
 # 5-July-2023
   	1. OKR meeting
   	2. EDA on available data on Galax-blue 
-[Notebook](trialANDerror.ipynb)
-	3. Literature review on the yesterdays (Can be done) using SAR data.[Doc](EDAonGaBlue.docx)   
+	3. Literature review on the yesterdays (Can be done) using SAR data.
+[Doc](EDAonGaBlue.docx)  [Notebook](trialANDerror.ipynb)
