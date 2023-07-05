@@ -25,6 +25,6 @@
 [Doc](Documents/EDAonGaBlue.docx)  [Notebook](Documents/trialANDerror.ipynb)
 
 <!-- ## Nature of problem: -->
-	<!-- Less data + complex data +  -->
+<!-- Less data + complex data +  -->
 	4. atmospheric correction for Sentinel-2 data is affecting mainly  490 to 740 drastically.  If we are using those bands then we have to do atm correction for sure otherwise we can check affect on other bands and use accordingly.
 [Paper](Documents/Sen2indepthATMCorrection.pdf)
