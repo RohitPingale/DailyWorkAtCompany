@@ -37,5 +37,6 @@
 	5. Specific Model design
     6. Cluster of ponds(GT) with similar property (so multiple model)
     7. GEE earth scripts(for satellite data) needs to be automate with ML scripts
+    8. geojson.io>API> template csv (cord)+ geo-json(cord) python>API> master csv (with cord info) > GEE - SAR(centroid band value) data > final csv >API> SVR model
 [Paper](https://www.notion.so/galaxeye-space/Algal-Bloom-4a2e664b457d46c287b0030f9abf845f)
 [Doc](Documents/Chl-aLR.docx)
