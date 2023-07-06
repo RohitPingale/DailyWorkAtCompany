@@ -28,3 +28,14 @@
 <!-- Less data + complex data +  -->
 	4. atmospheric correction for Sentinel-2 data is affecting mainly  490 to 740 drastically.  If we are using those bands then we have to do atm correction for sure otherwise we can check affect on other bands and use accordingly.
 [Paper](Documents/Sen2indepthATMCorrection.pdf)
+
+# 6-July-2023
+	1. trying to focus on how to interpolate the satellite data for 1 or 2 days - P.S but it does work well because of aquaculture dynamics 
+	2. Will this paper work with sentinel 2A  and what will be accuracy, its LR(DOC)
+	3. while doing work start thinking from business rather than scientist perspective.
+	4. meeting with founders and gx-blue to discuss overall progress of gx-blue
+	5. Specific Model design
+    6. Cluster of ponds(GT) with similar property (so multiple model)
+    7. GEE earth scripts(for satellite data) needs to be automate with ML scripts
+[Paper](https://www.notion.so/galaxeye-space/Algal-Bloom-4a2e664b457d46c287b0030f9abf845f)
+[Doc](Documents/Chl-aLR.docx)
