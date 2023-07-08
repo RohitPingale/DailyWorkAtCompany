@@ -40,3 +40,8 @@
     8. geojson.io>API> template csv (cord)+ geo-json(cord) python>API> master csv (with cord info) > GEE - SAR(centroid band value) data > final csv >API> SVR model
 [Paper](https://www.notion.so/galaxeye-space/Algal-Bloom-4a2e664b457d46c287b0030f9abf845f)
 [Doc](Documents/Chl-aLR.docx)
+
+# 7-July-2023
+	1. Literature review on the CHL-a algae estimation 
+	2. First OKR meeting
+[Doc](Documents/Chl-aLR.docx)
