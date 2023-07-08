@@ -45,3 +45,8 @@
 	1. Literature review on the CHL-a algae estimation 
 	2. First OKR meeting
 [Doc](Documents/Chl-aLR.docx)
+
+# 8-July-2023
+	1. Literature review on the CHL-a algae estimation completed with 2 approach
+	2. atmospheric correction on sen 2 data
+[Doc](Documents/Chl-aLR.docx)
